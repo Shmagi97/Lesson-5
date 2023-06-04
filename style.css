@@ -1,4 +1,4 @@
-@import url("https://cdn.web-fonts.ge/fonts/alkdots/css/alkdots.min.css");
+
 
 *{
     margin: 0px;
@@ -167,6 +167,6 @@
 }
 
 p{
-    font-family: "ALKDots", sans-serif;
+    font-family: "ALKDots";
 }
 
