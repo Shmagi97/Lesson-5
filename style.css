@@ -5,6 +5,8 @@
     padding: 0px;
 }
 
+
+
 .Hadcont{
     height: 270px;
     background-color: #0020F4;
@@ -99,14 +101,6 @@
 
 
 
-
-.TextLink{
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-
-}
-
 .Photos{
 
  
@@ -155,18 +149,135 @@
   font-size: 20px;
   transform: translateY(15px);
   
-  color: black;
+  color: #FFFFFF;
   
   
 }
 
-.Footer{
 
+
+.Text{
+    font-family: "axali-fonti";
+    font-size: 15px;
+}
+
+.FooterCont{
+    
     max-width: 100%;
-    height: 1080px;
+    height: 700px;
+    background-color: #0A22F4;
+    margin: 20px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+    
 }
 
-p{
-    font-family: "ALKDots";
+
+.KontaqtDiv{
+    
+    margin: 70px;
+    max-width: 30%;
+    display: inline-block;
+   
+    
 }
 
+.ContactH{
+
+    color: #FFFFFF;
+    font-size: 25px;
+
+}
+
+.ContactP{
+
+    color: #FFFFFF;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.ImgRuka{
+
+    width: 463px;
+    height: 197px;
+    margin-top: 30px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: -20px 20px 15px ;
+}
+
+.KontaqtDiv2{
+
+    display: inline-block;
+    margin-left: 20%;
+    
+    
+    
+}
+
+.ContactP2{
+
+    color: #FFFFFF;
+    padding: 40px;
+    border-bottom: 0.01px solid #FFFFFF;
+}
+
+.GagzavnaDiv{
+
+    text-align: right;
+    margin-right: 150px;
+    
+    
+    
+}
+
+.GagzavnaSP{
+    
+    border-radius: 28px 28px 28px 28px ;
+    font-size: 20px;
+    background-color: #FFFFFF;
+     padding: 10px
+    
+    
+}
+
+.AiqonDiv{
+
+    
+    
+    padding-left:  100px;
+    display: flex;
+    
+}
+
+.IqonP{
+
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-right:  300px;
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    color: #0A22F4;
+    
+    
+}
+
+.IqonP2{
+    position:absolute;
+    padding-left: 100px;
+    padding-top: 13px;
+    color:  #FFFFFF;
+}
+
+.IqonP3{
+    position:absolute;
+    padding-left: 470px;
+    padding-top: 13px;
+    color:  #FFFFFF;
+    
+    
+}
